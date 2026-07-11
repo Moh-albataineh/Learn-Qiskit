@@ -12,4 +12,4 @@ A repository dedicated to learning and practicing quantum computing using IBM's 
 
 ## Certifications & Badges
 
-[![Basics of Quantum Information](ibm_badge/badge_image.png)](https://www.credly.com/badges/d6f5965c-dcf7-4220-acb5-e51737b1bb6b/public_url)
+[![Basics of Quantum Information](https://images.credly.com/images/d6f5965c-dcf7-4220-acb5-e51737b1bb6b/Basics_of_Quantum_Information.png)](https://www.credly.com/badges/d6f5965c-dcf7-4220-acb5-e51737b1bb6b/public_url)
