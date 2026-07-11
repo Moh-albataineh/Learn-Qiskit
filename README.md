@@ -9,3 +9,7 @@ A repository dedicated to learning and practicing quantum computing using IBM's 
 * Quantum circuits: Designing and building circuits using quantum logic gates.
 * Entanglement in action: Practical implementations of quantum entanglement.
 * more ...
+
+## Certifications & Badges
+
+[![Basics of Quantum Information](ibm_badge/badge_image.png)](https://www.credly.com/badges/d6f5965c-dcf7-4220-acb5-e51737b1bb6b/public_url)
