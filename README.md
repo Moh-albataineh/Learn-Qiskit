@@ -4,10 +4,10 @@ A repository dedicated to learning and practicing quantum computing using IBM's 
 
 ## Topics Covered
 
-* Single systems: Fundamentals of single qubits and quantum states.
-* Multiple systems: Mechanics and operations of multi-qubit systems.
-* Quantum circuits: Designing and building circuits using quantum logic gates.
-* Entanglement in action: Practical implementations of quantum entanglement.
+* Basics of quantum information : Single systems
+* Basics of quantum information : Multiple systems
+* Basics of quantum information : Quantum circuits
+* Basics of quantum information : Entanglement in action
 * more ...
 
 ## Certifications & Badges
